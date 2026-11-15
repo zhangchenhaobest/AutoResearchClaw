@@ -1,3 +1,29 @@
+# AutoResearchClaw
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+从想法到论文的全自主、自进化科研系统。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="image/logo.png" width="700" alt="AutoResearchClaw Logo">
 </p>
